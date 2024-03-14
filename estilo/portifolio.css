@@ -63,7 +63,7 @@ a {
       color: #969696;
       text-align: center;
     }
-    .tokenInfo {
+    .info {
       display: flex;
       justify-content: space-between;
       align-items: center;

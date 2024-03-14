@@ -1,0 +1,26 @@
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 10px;
+  background-color: rgb(228, 228, 228);
+}
+
+.redes {
+  display: grid;
+  gap: 10px;
+  justify-content: center;
+}
+
+.footer-itens h3 {
+  margin-bottom: 20px;
+}

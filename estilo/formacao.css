@@ -1,0 +1,45 @@
+.formacao {
+  padding-top: 140px;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.formacao h1 {
+  font-size: 8rem;
+  color: rgb(172, 172, 172);
+  max-width: 6ch;
+  word-break: break-all;
+  text-transform: uppercase;
+}
+
+.formacao p{
+  line-height: 1.55rem;
+  font-size: 1.125rem;
+}
+.curso{
+  padding-left: 10px;
+  display: grid;
+  gap: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.idioma{
+  padding: 10px;
+  border-radius: 4px;
+  background-color: rgb(243, 243, 243);
+  display: grid;
+  gap: 10px;
+  
+  grid-column: 2;
+}
+.faculdade {
+  padding: 10px;
+  border-radius: 4px;
+  background-color: rgb(240, 240, 240);
+  display: grid;
+  gap: 10px;
+  margin-top: 60px;
+  grid-column: 2;
+}
